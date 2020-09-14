@@ -24,7 +24,7 @@ The pollutants are measured automaticaly and hourly in some cities in the state 
 
 ## Data Coverage
 
-Temporal coverage: 08-05-2013 to 06-05-2020.
+Temporal coverage: 08-05-2013 to 09-09-2020.
 
 Spacial coverage: São Paulo state, Brazil
 
